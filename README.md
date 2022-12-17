@@ -1,6 +1,7 @@
 # COMP-599-Project
 
-#Model Training
+Model Training
+
 Completed notebooks since December 13th, 2022
 
 Download the zipped folder and obtain the contents and run the notebooks on Google Colaboratory.
@@ -18,7 +19,7 @@ To download glove embeedings use:
 
 You can run the model training using the notebook, to see the collected results in the paper, you can also consult the collected training and test results in the data processing results google document.
 
-#Bias Analysis
+Bias Analysis
 
 To see the anlaysis of direct-bias and dataset political component, run the bias_calculation notebook.
 
