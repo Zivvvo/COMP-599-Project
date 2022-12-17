@@ -1,4 +1,4 @@
-# COMP-599-Project
+# COMP-599-Project: Political Debiasing on Fake News Classification using BiLSTM + ANN
 
 Model Training
 
