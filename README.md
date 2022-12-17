@@ -10,12 +10,12 @@ To run the training, use the notebooks with (Final) in it to test each model (no
 
 To notebook contains code to load in the ISOT Dataset, which can be downloaded here: https://www.uvic.ca/ecs/ece/isot/datasets/fake-news/index.php
 
-To download glove embeedings use:
+To download glove embeddings use:
 
-'''
+```
 !wget http://nlp.stanford.edu/data/glove.6B.zip
 !unzip glove.6B.zip
-'''
+```
 
 You can run the model training using the notebook, to see the collected results in the paper, you can also consult the collected training and test results in the data processing results google document.
 
